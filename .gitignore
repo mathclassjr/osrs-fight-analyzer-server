@@ -1,0 +1,7 @@
+node_modules
+compose.yml
+compose.dev.yml
+Dockerfile
+.env
+allFights.json
+fight.json
